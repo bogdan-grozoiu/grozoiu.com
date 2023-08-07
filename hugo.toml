@@ -1,0 +1,28 @@
+baseURL = 'https://grozoiu.com'
+languageCode = 'en-us'
+title = 'Bogdan Grozoiu'
+theme = 'lightbi-hugo'
+
+[Params] 
+mainSections = ["post","posts"]
+dateFormat = "2 January 2023"
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true 
+summaryLength  = "9"
+gcse = false
+Lastmod = false
+rss = false 
+pagination = "10"
+
+[Author]
+  name = "Bogdan Grozoiu"
+  website = "https://grozoiu.com/"
+  email = "bogdan@grozoiu.com"
+  twitter = "bogdangr"
+  linkedin = "bogdan-grozoiu"
+  github = "bogdan-grozoiu"
