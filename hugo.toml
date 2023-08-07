@@ -4,10 +4,10 @@ title = 'Bogdan Grozoiu'
 theme = 'lightbi-hugo'
 
 [Params] 
-mainSections = ["post","posts"]
-dateFormat = "2 January 2023"
+mainSections = ["blog"]
+dateFormat = "2 January"
 comments = false
-readingTime = false
+readingTime = true
 wordCount = false
 useHLJS = true
 socialShare = true
@@ -26,3 +26,9 @@ pagination = "10"
   twitter = "bogdangr"
   linkedin = "bogdan-grozoiu"
   github = "bogdan-grozoiu"
+
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 2
