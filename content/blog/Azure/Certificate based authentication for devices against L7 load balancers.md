@@ -3,7 +3,7 @@ title: Certificate based authentication for devices against L7 load balancers
 date: 2023-08-07
 tags: ["azure","blog"]
 image : "/img/posts/ai-generated-certificate-based-authentication.png"
-Description  : "It’s a fast and static website generator w ritten in the Go language. Websites built with Hugo can be hosted anywhere from GitHub..."
+Description  : "Certificate based authentication for devices against L7 load balancers"
 featured: true
 ---
 
