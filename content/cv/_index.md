@@ -1,4 +1,5 @@
 ---
+type : "tags"
 layout : "about"
 title: "Curriculum Vitae"
 ---
@@ -73,7 +74,7 @@ Customer and partner engagements included:
 
 ### September 2013 – October 2015 | *Support Escalation Engineer (Public and Private Cloud Services) at Microsoft Romania*
 As I was so passionate about Microsoft technologies, I joined the great family of Microsoft where I was initially busy with providing deep technical support for escalations all around Europe.
-My daily activities consisted in engaging & collaborating with other teams to obtain resolution to critical and complex issues, in being responsive to Microsoft’s customers` and partners` needs, which sometimes required support outside of the normal business hours. I created & maintained technical content including Knowledge Base articles, blog posts, whitepapers, and training documents.
+My daily activities consisted in engaging & collaborating with other teams to obtain resolution to critical and complex issues, in being responsive to Microsoft’s customers\` and partners\` needs, which sometimes required support outside of the normal business hours. I created & maintained technical content including Knowledge Base articles, blog posts, whitepapers, and training documents.
 
 As Office 365 and Azure were rapidly expanding platforms back then, I had the opportunity to work with and learn from various Product Groups (SharePoint, Azure, OneDrive, etc.). I opened numerous features and product improvement requests with the goal of bringing new solutions to market.
 I demonstrated leadership through personal responsibility, accountability, and teamwork. Thanks to this attitude I joined the local Premier Field Engineers team and made again steps in the direction of technical enablement and engagement. I had the chance to share Microsoft’s best practices with customers and partners.

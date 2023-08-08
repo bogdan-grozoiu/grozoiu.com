@@ -2,7 +2,7 @@
 title: Double Firewalling in Azure
 date: 2023-08-07
 tags: ["azure","blog"]
-image : "/img/posts/ai-generated-cloud-computing.jpeg"
+image : "/img/azure/ai-generated-cloud-computing.jpeg"
 Description  : "Learn how to achieve double firewalling capabilities in Azure"
 featured: true
 ---
@@ -12,13 +12,13 @@ Some customers might have some exotic preferences when it comes to controlling t
 - routing entirely the outbound traffic through on-premises gateways (typical to governmental orgs)
 - double traffic control to offer a high degree of flexibility to independent Landing Zone teams for East-West traffic management enriched by South-North strict traffic filtering (this scenario can also be achieved by enforcing Parent Azure Firewall Policies).
 
-![Double Firewall Overview](/img/posts/azure-double-firewall-header.png)
+![Double Firewall Overview](azure-double-firewall-header.png)
 
 That's when [Azure Firewall Forced Tunneling](https://learn.microsoft.com/en-us/azure/firewall/forced-tunneling) comes to the rescue: when you configure a new Azure Firewall, you can route all Internet-bound traffic to a designated next hop instead of going directly to the Internet.
 This setup can be achieved with typical Hub-Spoke network topologies (all scenarios supported), but also by leveraging the Azure Virtual WAN Secure Hub. Please note that if you deploy Azure Firewall inside of a Virtual WAN Hub (Secured Virtual Hub), advertising the default route over Express Route or VPN Gateway is not yet supported.
 
 Let's have a look at how this can be achieved:
-![Azure Firewall Double Firewall HLD](/img/posts/azure-firewall-double-firewall-hld.png)
+[![Azure Firewall Double Firewall HLD](azure-firewall-double-firewall-hld.png)](azure-firewall-double-firewall-hld.png)
 
 Here's 10 reasons on why you should reconsider such an architecture:
 1. DNAT is not supported with Forced Tunneling enabled. Firewalls deployed with Forced Tunneling enabled can't support inbound access from the Internet because of asymmetric routing.
@@ -35,10 +35,10 @@ Here's 10 reasons on why you should reconsider such an architecture:
 --------
 
 As mentioned above, in the Azure Firewall with Forced Tunneling enabled, you will be able to detect clearly the interface that generated the traffic:
-![Logs of Azure Firewall with Forced Tunneling enabled](/img/posts/logs-of-azure-firewall-with-force-tunneling-enabled.png)
+[![Logs of Azure Firewall with Forced Tunneling enabled](logs-of-azure-firewall-with-force-tunneling-enabled.png)](logs-of-azure-firewall-with-force-tunneling-enabled.png)
 
 While in the logs of the Firewall governing the Secure Hub you will see generic traffic coming from one of the private IPs of the Firewall with Forced Tunnelling:
-![Logs of Azure Firewall governing the Secure Hub](/img/posts/logs-of-azure-firewall-governing-the-secure-hub.png)
+[![Logs of Azure Firewall governing the Secure Hub](logs-of-azure-firewall-governing-the-secure-hub.png)](logs-of-azure-firewall-governing-the-secure-hub.png)
 
 --------
 
