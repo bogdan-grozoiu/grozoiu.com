@@ -2,7 +2,7 @@
 title: Double Firewalling in Azure
 date: 2023-08-07
 tags: ["azure","blog"]
-image : "/img/azure/ai-generated-cloud-computing.jpeg"
+image : "/img/azure/ai-generated-multi-firewall-madness.jpeg"
 Description  : "Learn how to achieve double firewalling capabilities in Azure"
 featured: true
 ---
