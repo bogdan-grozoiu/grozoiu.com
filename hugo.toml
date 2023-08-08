@@ -6,7 +6,7 @@ theme = 'lightbi-hugo'
 
 [Params] 
 mainSections = ["azure"]
-dateFormat = "2 January 2023"
+dateFormat = "2 January"
 comments = false
 readingTime = true
 wordCount = true
