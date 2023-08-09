@@ -141,7 +141,7 @@ Domain: Electrical Engineering (Automation)
 | Language | Speaking | Writing | Reading |
 | --- | --- | --- | --- |
 | Romanian (Native language) | Fluent (C2) | Fluent (C2) | Fluent (C2) |
-| Dutch* | Basic (A1) | Basic (A1) | Basic (A1) |
+| Dutch* | Basic (A2) | Basic (A2) | Basic (A2) |
 | English | Fluent (C1+) | Fluent (C1+) | Fluent (C1+) |
 * I am aiming for B2 fluency by EOY 2024.
 
