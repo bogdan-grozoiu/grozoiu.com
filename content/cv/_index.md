@@ -41,7 +41,7 @@ In my daily work I touch base with all the Azure Solution Areas: Infrastructure,
 
 It all starts with a surreal scenario or very often with an exotic customer request and ends up with a solution that is deployed and managed on Azure. On a daily base I work with a highly skilled technical community of our partners (CTOs, Enterprise and Lead Architects) and I collaborate with them to build solutions that are scalable, secure and cost effective.
 
-### May 2019 – July 2021 | *Azure Cloud Solutions Architect at SchubergPhilis B.V.*
+### May 2019 – June 2021 | *Azure Cloud Solutions Architect at SchubergPhilis B.V.*
 
 With SchubergPhilis I had two major achievements. 
 - First one: Replacement of the Citrix VDI with the modern Windows Virtual Desktop. Although it might seem a straightforward job, meeting a plethora of high securities demands made it a long yet successful process.
