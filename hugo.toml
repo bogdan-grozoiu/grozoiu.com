@@ -30,6 +30,21 @@ pagination = "10"
 
 
 [[menu.main]]
-    name = "Azure Blog"
-    url = "/azure"
+    name = "About me"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Azure"
+    url = "/azure/"
     weight = 2
+
+[[menu.main]]
+    name = "DevSecOps"
+    url = "/devsecops/"
+    weight = 3
+
+[[menu.main]]
+    name = "Corp Life"
+    url = "/corplife/"
+    weight = 4
