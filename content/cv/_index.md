@@ -20,19 +20,38 @@ Throughout my career, all my activities were customer and partner facing. Learn 
 ## Experience
 
 ### July 2021 - present | *Azure Cloud Solutions Architect at Microsoft*
-* tbd
+In my role, I am helping Microsoft Partners to plan, build and deliver solutions on Azure. 
+I think I may call myself an industry and technology visionary with a passion for designing complex Cloud solutions and automation.
+
+The role of an Azure CSA with Microsoft comes with a lot of duties, of wich I can mention:
+- Drive the adoption of Microsoft Azure cloud resources and services through technical engagements with customers and partners.
+- Building PoCs and demos to showcase the value of Microsoft Azure.
+- Co-Architect complex hybrid solutions to run securely in Azure.
+- Support migrations from classical datacenters or from other cloud providers to Azure.
+- Whiteboard-designing various cloud-native and hybrid architectures according to the Azure Well Architected Framework.
+- Run Hackathons for strategic technologies as coach.
+- Deliver custom technical workshops and trainings (mostly around Azure networking, DevOps, Containers, Cost Optimization, Hybrid Cloud, AVD, WAF and CAF, etc.)
+- Public speaker for Microsoft- or Partner- organized in-person events.
+- Write [automations and scripts](https://github.com/msft-nl-gps) to help customers and partners achieve their goals.
+- Assess the cloud maturity of our partners and help them grow and get certified as Microsoft Specialized or as Expert Managed Services Providers.
+- Help Microsoft Partners to create long-term cloud adoption strategies.
+- Actively shape various Azure services by engaging with the Azure Product Groups and providing market-driven feedback.
+
+In my daily work I touch base with all the Azure Solution Areas: Infrastructure, Digital and App Innovation, Data and AI, Identity and Security.
+
+It all starts with a surreal scenario or very often with an exotic customer request and ends up with a solution that is deployed and managed on Azure. On a daily base I work with a highly skilled technical community of our partners (CTOs, Enterprise and Lead Architects) and I collaborate with them to build solutions that are scalable, secure and cost effective.
 
 ### May 2019 – July 2021 | *Azure Cloud Solutions Architect at SchubergPhilis B.V.*
 
 With SchubergPhilis I had two major achievements. 
-- First one: Replacement of the Citrix VDI with the modern Windows Virtual Desktop. Although it might seem a straightforward job, meeting a plethora of high securities demands made it a long yet successful process. I am now part of a select WVD world-wide community including Microsoft global black belts.
+- First one: Replacement of the Citrix VDI with the modern Windows Virtual Desktop. Although it might seem a straightforward job, meeting a plethora of high securities demands made it a long yet successful process.
 - Second one: convinced the oldest customer to extend their on-prem-only infrastructure into Azure in the most secure way possible nowadays. For this we had to partner with 2 other companies and Microsoft itself. To achieve this, I conducted Proof of Concepts, plenty of technical briefings with suppliers, internal and external architecture design sessions and automated any deployment possible. 
 
-Also involved with different modernization solutions while shifting from a classical datacenter to Azure, implemented new org-wide APIs as function apps (Naming Conventions, Exchange Online APIs), orchestration of Azure and non-Azure VMs patching, Azure Monitoring and Alerting by using Kusto Queries, Azure Monitor, various APIs and Opsgenie as incident manager.
+Also involved with different modernization solutions while shifting from a classical datacenter to Azure, implemented new org-wide APIs as function apps (Naming Conventions, Exchange Online APIs), orchestration of Azure and non-Azure VMs patching, Azure Monitoring and Alerting by using Kusto Queries, Azure Monitor and various external APIs.
 
 Contributed to the internal Azure Landing Zone and helped on turning it into an off-the-shelf product, paving this way the road to become an Independent Software Vendor (ISV).
 
-I also participated in an Azure hackathon organized at SBP premises (pre-pandemic) around IoT topics. I’m currently preparing a PowerShell Core training for 25 attendees.
+I also participated in an Azure hackathon organized at SBP premises (pre-pandemic) around IoT topics. I also prepared a PowerShell Core training for 25 attendees.
 
 100% of the technical work has been achieved by using Azure DevOps, ARM templates and PowerShell.
 
@@ -129,7 +148,7 @@ Domain: Electrical Engineering (Automation)
 ## Personal Skills
 I don’t miss a chance of coaching my colleagues and help them find answers to various issues all by themselves.
 I have a great experience managing mid-sized teams and customer teams. 
-Along the time I learned the art of developing partnerships with other companies.
+Along the time I learned the art of developing long-term partnerships with other companies.
 
 ## Interests
 I am passionate about green and power efficient technologies driven by Artificial Intelligence.
