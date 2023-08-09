@@ -156,3 +156,5 @@ I am passionate about green and power efficient technologies driven by Artificia
 The Azure cloud is such a moving target that is almost impossible to keep up with all the news, project-based engagements are good enough to add more pieces to the big blue puzzle and to achieve a significant depth and knowledge in execution.
 
 What keeps me awake at midnight? Challenges. The hardest to achieve, tailor-made for the future and built upon innovative solutions. I am always looking for the next big challenge.
+
+This CV can be downloaded [here](/docs/cv-bogdan-grozoiu.pdf)
