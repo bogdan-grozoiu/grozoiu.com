@@ -5,23 +5,24 @@ title: "Curriculum Vitae"
 ---
 
 ## Personal details
-* First and Last name: Bogdan-Gabriel Grozoiu
+* Full name: Bogdan-Gabriel Grozoiu
 * Area: Noord-Holland, The Netherlands
 * Phone number: +31 6 25243579
 * E-mail: bogdan@grozoiu.com
+* Blog: https://grozoiu.com
 * Nationality: Romanian (EU passport)
 
 ## Summary
 
-I'm an experienced solutions architect in the information technology and services industry. Designing, planning, and delivering enterprise grade environments running on the latest technologies is what keeps me busy since my start in 2007. I have the mentality of getting it done properly and I strive for quality over quantity in everything I do. 
-Throughout my career, all my activities were customer and partner facing.
+I'm an experienced Cloud Solutions Architect in the information technology industry. Designing, planning, and delivering enterprise grade environments running on the latest technologies is what keeps me busy since my start in 2007. I have the mentality of getting it done properly and I strive for quality over quantity in everything I do. 
+Throughout my career, all my activities were customer and partner facing. Learn more about me [here](https://grozoiu.com/about/).
 
 ## Experience
 
-### July 2021 - present | *Cloud Solutions Architect at Microsoft Netherlands B.V., Netherlands*
+### July 2021 - present | *Azure Cloud Solutions Architect at Microsoft*
 * tbd
 
-### May 2019 – July 2021 | *Azure Cloud Solutions Architect at SchubergPhilis B.V., Netherlands*
+### May 2019 – July 2021 | *Azure Cloud Solutions Architect at SchubergPhilis B.V.*
 
 With SchubergPhilis I had two major achievements. 
 - First one: Replacement of the Citrix VDI with the modern Windows Virtual Desktop. Although it might seem a straightforward job, meeting a plethora of high securities demands made it a long yet successful process. I am now part of a select WVD world-wide community including Microsoft global black belts.
@@ -72,7 +73,7 @@ Customer and partner engagements included:
 - Trainer of PowerShell Core & Advanced and SharePoint for Admins
 - Company-wide Azure Subject Matter Expert.
 
-### September 2013 – October 2015 | *Support Escalation Engineer (Public and Private Cloud Services) at Microsoft Romania*
+### September 2013 – October 2015 | *Support Escalation Engineer (Public and Private Cloud Services) at Microsoft*
 As I was so passionate about Microsoft technologies, I joined the great family of Microsoft where I was initially busy with providing deep technical support for escalations all around Europe.
 My daily activities consisted in engaging & collaborating with other teams to obtain resolution to critical and complex issues, in being responsive to Microsoft’s customers\` and partners\` needs, which sometimes required support outside of the normal business hours. I created & maintained technical content including Knowledge Base articles, blog posts, whitepapers, and training documents.
 

@@ -23,10 +23,13 @@ pagination = "10"
 [Author]
   name = "Bogdan Grozoiu"
   website = "https://grozoiu.com/"
+  about = "/about/"
   email = "bogdan@grozoiu.com"
   twitter = "bogdangr"
   linkedin = "bogdan-grozoiu"
   github = "bogdan-grozoiu"
+  picture = "/img/about/bogdan-gabriel-grozoiu.jpeg"
+  role = "Cloud Solution Architect"
 
 
 [[menu.main]]
