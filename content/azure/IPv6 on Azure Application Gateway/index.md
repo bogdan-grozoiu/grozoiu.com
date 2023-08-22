@@ -1,7 +1,7 @@
 ---
 title: IPv6 on Azure Application Gateway
 date: 2023-08-22
-tags: ["azure","blog"]
+tags: ["azure","L200"]
 image : "/img/azure/ai-generated-dual-stack-gateway-with-firewall.jpeg"
 Description  : "Expose your application to the internet using Azure Application Gateway using both IPv4 and IPv6."
 featured: true

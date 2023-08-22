@@ -1,7 +1,7 @@
 ---
 title: Query Azure DNS private zones from on-premises
 date: 2022-10-08
-tags: ["azure","blog"]
+tags: ["azure","L300"]
 image : "/img/azure/ai-generated-private-datacenter.jpeg"
 Description  : "Query Azure DNS private zones from an on-premises environment and vice versa without deploying VM based DNS servers"
 featured: true

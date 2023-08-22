@@ -1,7 +1,7 @@
 ---
 title: Certificate based authentication for devices against L7 load balancers
 date: 2023-08-07
-tags: ["azure","blog"]
+tags: ["azure","L200"]
 image : "/img/azure/ai-generated-certificate-based-authentication.png"
 Description  : "Learn how to authenticate against Azure Application Gateway or API Management Services using certificates"
 featured: true
