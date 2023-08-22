@@ -20,6 +20,11 @@ Lastmod = false
 rss = false 
 pagination = "10"
 
+[sitemap]
+  changeFreq = 'yearly'
+  filename = 'sitemap.xml'
+  priority = -1
+
 [Author]
   name = "Bogdan Grozoiu"
   website = "https://grozoiu.com/"
