@@ -26,6 +26,6 @@ I am also a strong communicator and public speaker, able to convey complex ideas
 
 I enjoy helping businesses continuously transform through state-of-the-art cloud technology and their success is my success.
 
-Here's how you can reach out to me on social media: [Twitter](https://twitter.com/bogdangr) | [GitHub](https://github.com/bogdan-grozoiu) | [LinkedIn](https://linkedin.com/in/bogdan-grozoiu).
+Here's how you can reach out to me on social media: [X](https://X.com/bogdangr) | [GitHub](https://github.com/bogdan-grozoiu) | [LinkedIn](https://linkedin.com/in/bogdan-grozoiu).
 
 Cheers! 👋
