@@ -9,7 +9,7 @@ title: "Curriculum Vitae"
 * Area: Noord-Holland, The Netherlands
 * Phone number: +31 6 25243579
 * E-mail: bogdan@grozoiu.com
-* Blog: https://grozoiu.com
+* Web: https://grozoiu.com
 * Nationality: Romanian (EU passport)
 
 ## Summary

@@ -16,4 +16,6 @@ Here's how you can reach out to me on social media:
 * [GitHub](https://github.com/bogdan-grozoiu)
 * [LinkedIn](https://linkedin.com/in/bogdan-grozoiu)
 
+If you want to have a look at my background, please see my [CV](/cv/).
+
 Thank you for reaching out to me!
