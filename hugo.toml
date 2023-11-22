@@ -53,6 +53,11 @@ pagination = "10"
     weight = 3
 
 [[menu.main]]
-    name = "Corp Life"
-    url = "/corplife/"
+    name = "CV"
+    url = "/cv/"
     weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
