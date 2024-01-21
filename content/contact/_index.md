@@ -22,4 +22,8 @@ Here's how you can reach out to me on social media:
 
 If you want to have a look at my background, please see my [CV](/cv/).
 
-Thank you for reaching out to me!
+If you would like to colaborate with me, pleasee see my [services](/services/).
+
+Thank you for reaching out to me,
+
+Bogdan.

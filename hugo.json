@@ -1,0 +1,82 @@
+{
+    "baseURL": "https://grozoiu.com",
+    "languageCode": "en-us",
+    "title": "Bogdan Grozoiu Consultancy Services",
+    "theme": "lightbi-hugo",
+    "params": {
+        "mainSections": [
+            "azure"
+        ],
+        "dateFormat": "2 January",
+        "comments": false,
+        "readingTime": true,
+        "wordCount": true,
+        "useHLJS": true,
+        "socialShare": true,
+        "delayDisqus": true,
+        "showRelatedPosts": true,
+        "summaryLength": 9,
+        "gcse": false,
+        "lastMod": false,
+        "rss": false,
+        "pagination": 10
+    },
+    "sitemap": {
+        "changefreq": "monthly",
+        "priority": -1,
+        "filename": "sitemap.xml"
+    },
+    "Author": {
+        "name": "Bogdan Grozoiu",
+        "website": "https://grozoiu.com",
+        "about": "/about/",
+        "email": "bogdan@grozoiu.com",
+        "twitter": "bogdangr",
+        "linkedin": "bogdan-grozoiu",
+        "github": "bogdan-grozoiu",
+        "picture": "/img/about/bogdan-gabriel-grozoiu.jpeg",
+        "role": "Sr. Cloud Architect"
+    },
+    "menus": {
+        "main": [
+            {
+                "name": "About",
+                "pageRef": "/about/",
+                "weight": 1
+            },
+            {
+                "name": "Services",
+                "pageRef": "/services/",
+                "weight": 2
+            },    
+            {
+                "name": "Blog",
+                "pageRef": "/blog/",
+                "weight": 3
+            },
+            {
+                "name": "Azure",
+                "pageRef": "/azure/",
+                "parent": "Blog",
+                "weight": 1
+            },
+            {
+                "name": "DevSecOps",
+                "pageRef": "/devsecops/",
+                "parent": "Blog",
+                "weight": 2
+            },
+            {
+                "name": "CV",
+                "pageRef": "/cv/",
+                "weight": 9
+            },
+            {
+                "name": "Contact",
+                "pageRef": "/contact/",
+                "weight": 10
+
+            }                    
+        ]
+    }
+}

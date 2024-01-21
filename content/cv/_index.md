@@ -19,7 +19,11 @@ Throughout my career, all my activities were customer and partner facing. Learn 
 
 ## Experience
 
-### July 2021 - present | *Azure Cloud Solutions Architect at Microsoft*
+### January 2024 - Present | *Freelancer - Sr. Azure Cloud Solutions Architect*
+See my [Services](/services/) page to learn more about how can I help you.
+
+
+### July 2021 - December 2023 | *Azure Cloud Solutions Architect at Microsoft*
 In my role, I am helping Microsoft Partners to plan, build and deliver solutions on Azure. 
 I think I may call myself an industry and technology visionary with a passion for designing complex Cloud solutions and automation.
 
