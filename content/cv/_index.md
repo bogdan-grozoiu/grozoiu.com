@@ -20,8 +20,15 @@ Throughout my career, all my activities were customer and partner facing. Learn 
 ## Experience
 
 ### January 2024 - Present | *Freelancer - Sr. Azure Cloud Solutions Architect*
-See my [Services](/services/) page to learn more about how can I help you.
+I am a subject matter expert in designing cloud and hybrid solutions that run on Azure.
 
+I advise stakeholders and translate business requirements into designs for Azure solutions that align with the Azure Well-Architected Framework and Cloud Adoption Framework for Azure.
+
+In this role, I implement solutions on Azure by partnering with various other job roles, including: Enterprise Architects, Developers, Platform Administrators, Security and Data Engineers.
+
+I am currently busy with both Greenfield and Brownfield deployments and Azure-To-Azure Migrations (ALZ-To-ALZ).
+
+On regular basis I do training, coaching, and co-design sessions.
 
 ### July 2021 - December 2023 | *Azure Cloud Solutions Architect at Microsoft*
 In my role, I am helping Microsoft Partners to plan, build and deliver solutions on Azure. 
@@ -123,6 +130,7 @@ Domain: Electrical Engineering (Automation)
 ## Training Courses and Self-Study
 
 ### Microsoft
+* AZ-104 - Azure Administrator Associate
 * AZ-140 - Configuring and Operating Microsoft Azure Virtual Desktop
 * AZ-301 - Microsoft Azure Architect Design
 * 70-533 - Implementing Microsoft Azure Infrastructure Solutions
@@ -147,7 +155,7 @@ Domain: Electrical Engineering (Automation)
 | Romanian (Native language) | Fluent (C2) | Fluent (C2) | Fluent (C2) |
 | Dutch* | Basic (A2) | Basic (A2) | Basic (A2) |
 | English | Fluent (C1+) | Fluent (C1+) | Fluent (C1+) |
-* I am aiming for B2 fluency by EOY 2024.
+* I am aiming for B2 fluency by EOY 2025.
 
 ## Personal Skills
 I don’t miss a chance to coach my colleagues and help them find answers to various issues all by themselves.
