@@ -14,21 +14,16 @@ title: "Curriculum Vitae"
 
 ## Summary
 
-I'm an experienced Cloud Solutions Architect in the information technology industry. Designing, planning, and delivering enterprise grade environments running on the latest technologies is what has kept me busy since my start in 2007. I have the mentality of getting it done properly and I strive for quality over quantity in everything I do. 
-Throughout my career, all my activities were customer and partner facing. Learn more about me [here](https://grozoiu.com/about/).
+I’m an experienced Cloud Solutions Architect in the information technology industry. Designing, planning, and delivering enterprise grade environments running on the latest technologies is what has kept me busy since my start in 2007. I have the mentality of getting it done properly and I strive for quality over quantity in everything I do. 
+Throughout my career, all my activities were customer and partner facing.
 
 ## Experience
 
-### January 2024 - Present | *Freelancer - Sr. Azure Cloud Solutions Architect*
-I am a subject matter expert in designing cloud and hybrid solutions that run on Azure.
+### January 2024 - Present | *Freelancer - Azure Cloud Solutions Architect*
 
-I advise stakeholders and translate business requirements into designs for Azure solutions that align with the Azure Well-Architected Framework and Cloud Adoption Framework for Azure.
-
-In this role, I implement solutions on Azure by partnering with various other job roles, including: Enterprise Architects, Developers, Platform Administrators, Security and Data Engineers.
-
-I am currently busy with both Greenfield and Brownfield deployments and Azure-To-Azure Migrations (ALZ-To-ALZ).
-
-On regular basis I do training, coaching, and co-design sessions.
+Freelancer – Azure Cloud Solutions Architect - Bogdan Grozoiu Consultancy Services
+As an Azure Solutions Architect my main focus is to shape the IT&C landscape of my end customers in the most future-proof and cost-conscious way. I drive roadmap sessions, lead technical discussions, create solution designs, draw HLDs and LLDs, run proof of value sessions, and ultimately design DevOps rollout strategies for full blown DTAP Solution-as-Code.
+I love solving business challenges with innovative technologies, and I get a lot of energy from technically dense discussions that lead to more secure and resilient workloads. Part of my work is also dedicated to growing internal and external teams to be self-sufficient, induce a growth mindset and shape future consultants.
 
 ### July 2021 - December 2023 | *Azure Cloud Solutions Architect at Microsoft*
 In my role, I am helping Microsoft Partners to plan, build and deliver solutions on Azure. 
