@@ -15,9 +15,9 @@ During my time off I enjoy riding my bike in the surroundings of my village or t
 I currently work as a Sr. Cloud Solution Architect and my customers are from the healthcare, education and public sector. Daily, I'm dealing with complex business needs and I am busy with designing, building and delivering solutions for Azure. I think I may call myself an industry and technology visionary with a passion for designing complex Cloud solutions.
 
 It all starts with a dream or very often with a customer request and ends up with a solution that is deployed and managed on Azure.
-On a daily base I work with a highly skilled technical community (Enterprise, Lead Architects and CTOs) and I collaborate with them to build solutions that are scalable, secure and cost effective.
+Daily, I work with a highly skilled technical community (Enterprise, Lead Architects and CTOs) and I collaborate with them to build solutions that are scalable, secure and cost effective.
 
-I am passionate about Azure, very oppinionated and I love to share my knowledge with others. I am a strong believer in the power of automations and I am always looking for ways to remove redundant tasks. I am also a big fan of the DevSecOps culture and I always look for ways to optimize and strengthen the way we work.
+I am passionate about Azure, very oppinionated and I love to share my ideas with others. I am a strong believer in the power of automations and I am always looking for ways to remove redundant tasks. I am also a big fan of the DevSecOps culture and I always look for ways to optimize and strengthen the way we work.
 
 I have the tendency to suggest innovative and competitive technologies and the ability to start from a helicopter view and dive deep into technical details until everything is clear and actionable.
 
