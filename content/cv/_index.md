@@ -24,7 +24,7 @@ Throughout my career, all my activities were customer and partner facing.
 As an Azure Solutions Architect my main focus is to shape the IT&C landscape of my end customers in the most future-proof and cost-conscious way. 
 I drive roadmap sessions, lead technical discussions, create solution designs, draw HLDs and LLDs, run proof of value sessions, and ultimately design DevOps rollout strategies for full blown DTAP Solution-as-Code.
 I love solving business challenges with innovative technologies, and I get a lot of energy from technically dense discussions that lead to more secure and resilient workloads. 
-Part of my work is also dedicated to growing internal and external teams to be self-sufficient, induce a growth mindset and shape future consultants.
+Part of my work is also dedicated to growing internal and external teams to be self-sufficient, inducing a growth mindset and shaping future consultants.
 
 ### July 2021 - December 2023 | *Azure Cloud Solutions Architect at Microsoft*
 In my role, I am helping Microsoft Partners to plan, build and deliver solutions on Azure. 
