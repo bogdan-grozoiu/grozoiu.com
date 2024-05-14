@@ -14,16 +14,17 @@ title: "Curriculum Vitae"
 
 ## Summary
 
-I’m an experienced Cloud Solutions Architect in the information technology industry. Designing, planning, and delivering enterprise grade environments running on the latest technologies is what has kept me busy since my start in 2007. I have the mentality of getting it done properly and I strive for quality over quantity in everything I do. 
+I’m an experienced Cloud Solutions Architect in the information technology industry. 
+Designing, planning, and delivering enterprise grade environments running on the latest technologies is what has kept me busy since my start in 2007. I have the mentality of getting it done properly and I strive for quality over quantity in everything I do. 
 Throughout my career, all my activities were customer and partner facing.
 
 ## Experience
 
 ### January 2024 - Present | *Freelancer - Azure Cloud Solutions Architect*
-
-Freelancer – Azure Cloud Solutions Architect - Bogdan Grozoiu Consultancy Services
-As an Azure Solutions Architect my main focus is to shape the IT&C landscape of my end customers in the most future-proof and cost-conscious way. I drive roadmap sessions, lead technical discussions, create solution designs, draw HLDs and LLDs, run proof of value sessions, and ultimately design DevOps rollout strategies for full blown DTAP Solution-as-Code.
-I love solving business challenges with innovative technologies, and I get a lot of energy from technically dense discussions that lead to more secure and resilient workloads. Part of my work is also dedicated to growing internal and external teams to be self-sufficient, induce a growth mindset and shape future consultants.
+As an Azure Solutions Architect my main focus is to shape the IT&C landscape of my end customers in the most future-proof and cost-conscious way. 
+I drive roadmap sessions, lead technical discussions, create solution designs, draw HLDs and LLDs, run proof of value sessions, and ultimately design DevOps rollout strategies for full blown DTAP Solution-as-Code.
+I love solving business challenges with innovative technologies, and I get a lot of energy from technically dense discussions that lead to more secure and resilient workloads. 
+Part of my work is also dedicated to growing internal and external teams to be self-sufficient, induce a growth mindset and shape future consultants.
 
 ### July 2021 - December 2023 | *Azure Cloud Solutions Architect at Microsoft*
 In my role, I am helping Microsoft Partners to plan, build and deliver solutions on Azure. 
@@ -125,6 +126,7 @@ Domain: Electrical Engineering (Automation)
 ## Training Courses and Self-Study
 
 ### Microsoft
+* AZ-305 - Designing Microsoft Azure Infrastructure Solutions
 * AZ-104 - Azure Administrator Associate
 * AZ-140 - Configuring and Operating Microsoft Azure Virtual Desktop
 * AZ-301 - Microsoft Azure Architect Design
@@ -139,10 +141,10 @@ Domain: Electrical Engineering (Automation)
 ### Project Management
 * Project Manager (CODECS Romania & Open University)
 
-### Other IT and Management Related Trainings
-* Advanced Entrepreneurship
-* Expert in accessing structural and cohesion funds
-* Foundation V3 – Level 1
+### Other Trainings
+* Microsoft – Senior Technical Leadership Program
+* Advanced Entrepreneurship.
+* ITIL Foundation V3 – Level 1
 
 ## Languages
 | Language | Speaking | Writing | Reading |
@@ -153,15 +155,13 @@ Domain: Electrical Engineering (Automation)
 * I am aiming for B2 fluency by EOY 2025.
 
 ## Personal Skills
-I don’t miss a chance to coach my colleagues and help them find answers to various issues all by themselves.
-I have a great experience managing mid-sized teams and customer teams. 
-Along the time I learned the art of developing long-term partnerships with other companies.
+I don’t miss a chance to coach my customers and colleagues and help them find answers to various issues all by themselves.
+I have a great experience managing mid-sized teams as well as external customer teams. 
+Along the time I learned the art of developing partnerships with other teams or companies.
 
-## Interests
-I am passionate about green and power efficient technologies driven by Artificial Intelligence. As Netherlands is now my home country, I enjoy cycling medium distances in any weather.
-
-The Azure cloud is such a moving target that is almost impossible to keep up with all the news, project-based engagements are good enough to add more pieces to the big blue puzzle and to achieve a significant depth and knowledge in execution.
-
-What keeps me awake at midnight? Challenges. The hardest to achieve, tailor-made for the future and built upon innovative solutions. I am always looking for the next big challenge.
+## Personal Interests
+I am passionate about green and power efficient technologies in all its shapes and forms. 
+I enjoy building small home automations up to photovoltaic deployments and electrical engineering works.
+What keeps me awake at midnight? Challenges. The hardest to achieve, tailor-made for the future and built upon innovative solutions. I am always looking forward to the next challenge to be done properly.
 
 This CV can be downloaded [here](/docs/cv-bogdan-grozoiu.pdf)
