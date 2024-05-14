@@ -12,7 +12,7 @@ The articles in this blog are inspired by real-life scenarios and I am trying to
 I am Romanian and since 2018 I live in the Netherlands with my wife, Sorina, and now two cats ^.^
 During my time off I enjoy riding my bike in the surroundings of my village or traveling to places with better weather.
 
-I currently work as a Sr. Cloud Solution Architect and my customers are from the healthcare, education and public sector. Daily, I am dealing with complex business needs, designing, building and delivering solutions for Azure. I think I may call myself an industry and technology visionary with a passion for designing complex Cloud solutions.
+I currently work as a Sr. Cloud Solution Architect and my customers are from the healthcare, education and public sector. Daily, I'm dealing with complex business needs and I am busy with designing, building and delivering solutions for Azure. I think I may call myself an industry and technology visionary with a passion for designing complex Cloud solutions.
 
 It all starts with a dream or very often with a customer request and ends up with a solution that is deployed and managed on Azure.
 On a daily base I work with a highly skilled technical community (Enterprise, Lead Architects and CTOs) and I collaborate with them to build solutions that are scalable, secure and cost effective.
