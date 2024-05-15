@@ -49,12 +49,21 @@ Don't wait and don't rely too much on retro-fitting.
 ## Pipeline optimization
 When is it good enough? When the ammount of effort it takes to make it perfect financially outshines the benefits.
 Until then, there is always room for improvements such as steering away from using platform hosted secrets or ensuring the pipeline code is easy to be reverse-engineered.
-A good pipeline makes room for failures, handles them and does not rely on multiple runs to hopefully produce the desired outcomes as initially wished for.
+A good pipeline makes room for failures, handles them, and does not rely on multiple runs to hopefully produce the desired outcomes as initially wished for.
 Automation pipelines for Mission Critical workloads must simulate the changes on the target environments, require human intervention whenever needed and shall never cross-contaminate other environments.
 What engineers want? Shortest time to failure observation and the possibility to resume fast on iterative changes.
 I can help your organization by analyzing your current workflows, design, plan, optimize, create proof-of-value, educate and coach the existing workforce to become more agile at what they do.
 
 ## Shifting Security to the Left
+Ever wondered what Shift-To-Left means? It has to do with introducing non-blocking security measures before your code touches even the Development environment, the outter most left abbreviation letter in DTAP.
+Developers of any nature are like water, they always find the path of least resistance, cutting most of the corners, especially the ones of Security.
+It has to do with both the technology and the mindset of securing developer-driven innovations.
+You need to stop secret leaks before your company name becomes the header of various newspapers for client data leak.
+As an example, a common mistake is to let a database server be accessible from the internet, unencrypted and with a connection string hardcoded somewhere in your public or private code base (or easy to deduct).
+You must have a unified visibility of your DevOps security posture, minimize blind spots within a single pane of glass, and get context-driven remediation guidance for code fixes. 
+Integrating with Defender for Cloud helps your organization prioritize critical code fixes and keeps teams focused on emerging threats by reducing security issues before they reach production environments.
+I can help you implement suites of security scanning tools native to both GitHub and Azure DevOps that will perform automatic secrets and dependency scanning, and will prevent code vulnerabilities before your brand is worth nothing or it is too late for your business.
+
 ## ISV-centric Build and Deploy (CI/CD)
 ## Tagging for Innersourcing
 ## Designing for Automatic testing
