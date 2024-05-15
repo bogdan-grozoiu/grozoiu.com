@@ -42,11 +42,18 @@ A true isolation between various environments must be as secure as your electric
 For each solution that your organization runs, there should be at least a non-production environment where people can safely develop, test, optimize, learn and ultimately "accept" it.
 Your Acceptance environment is the Production of tomorrow and you need to be able to control and predict the day of tomorrow.
 I have almost 20 years of experience in safely shipping software, fully automated, stage by stage, with rollback possibility.
-Some services such as Entra ID, or the Microsoft 365 suite are indeed production only, but even there room can be made for trying things out.
-For the rest, there is a possibility for automation. 
+Some services such as Entra ID, or the Microsoft 365 suite are indeed production only, but also there room can be made for trying things out, using automation.
+There is always a possibility for automation. I strive for descriptive configuration rather than imperative, with each occasion.
 Don't wait and don't rely too much on retro-fitting.
 
 ## Pipeline optimization
+When is it good enough? When the ammount of effort it takes to make it perfect financially outshines the benefits.
+Until then, there is always room for improvements such as steering away from using platform hosted secrets or ensuring the pipeline code is easy to be reverse-engineered.
+A good pipeline makes room for failures, handles them and does not rely on multiple runs to hopefully produce the desired outcomes as initially wished for.
+Automation pipelines for Mission Critical workloads must simulate the changes on the target environments, require human intervention whenever needed and shall never cross-contaminate other environments.
+What engineers want? Shortest time to failure observation and the possibility to resume fast on iterative changes.
+I can help your organization by analyzing your current workflows, design, plan, optimize, create proof-of-value, educate and coach the existing workforce to become more agile at what they do.
+
 ## Shifting Security to the Left
 ## ISV-centric Build and Deploy (CI/CD)
 ## Tagging for Innersourcing
