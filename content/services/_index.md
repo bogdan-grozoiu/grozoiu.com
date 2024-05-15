@@ -38,6 +38,14 @@ Let's steer away from that mentality and keep your intellectual property well se
 I can help you define a future-proof DevOps strategy, by separating artifacts that don't belong together and making logical room for configurations-as-code.
 
 ## DTAP / OTAP build
+A true isolation between various environments must be as secure as your electrical wires in your home. Once they touch each other, there is a big risk of fire.
+For each solution that your organization runs, there should be at least a non-production environment where people can safely develop, test, optimize, learn and ultimately "accept" it.
+Your Acceptance environment is the Production of tomorrow and you need to be able to control and predict the day of tomorrow.
+I have almost 20 years of experience in safely shipping software, fully automated, stage by stage, with rollback possibility.
+Some services such as Entra ID, or the Microsoft 365 suite are indeed production only, but even there room can be made for trying things out.
+For the rest, there is a possibility for automation. 
+Don't wait and don't rely too much on retro-fitting.
+
 ## Pipeline optimization
 ## Shifting Security to the Left
 ## ISV-centric Build and Deploy (CI/CD)
