@@ -50,21 +50,14 @@
                 "weight": 2
             },    
             {
-                "name": "Blog",
-                "pageRef": "/blog/",
-                "weight": 3
-            },
-            {
-                "name": "Azure",
+                "name": "The Azure Blog",
                 "pageRef": "/azure/",
-                "parent": "Blog",
-                "weight": 1
+                "weight": 3
             },
             {
                 "name": "DevSecOps",
                 "pageRef": "/devsecops/",
-                "parent": "Blog",
-                "weight": 2
+                "weight": 4
             },
             {
                 "name": "CV",
