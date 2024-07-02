@@ -3,7 +3,7 @@ layout : "about"
 title: "BGCS Azure Services"
 ---
 
-# Azure 
+# Azure Consultancy Services (page under construction)
 ## Solution Designing
 ### Envisioning
 ### Roadmapping
