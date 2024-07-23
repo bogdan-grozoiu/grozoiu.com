@@ -168,6 +168,6 @@ I don’t miss a chance to coach my customers and colleagues and help them find 
 I am passionate about green and power efficient technologies in all its shapes and forms. 
 I enjoy building small home IoT automations up to photovoltaic deployments and electrical engineering works.
 What keeps me awake at midnight? Challenges. The hardest to achieve, tailor-made for the future and built upon innovative solutions. 
-**I am always looking forward to the next challenge to be properly done.**
+**I am always looking forward to the next challenge to be done properly.**
 
 This CV can be downloaded [here](/docs/cv-bogdan-grozoiu.pdf)
