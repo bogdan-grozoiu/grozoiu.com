@@ -21,8 +21,8 @@ Throughout my career, all my activities were customer and partner facing.
 ## Experience
 
 ### January 2024 - Present | *Freelancer - Azure Cloud Solutions Architect*
-As an Azure Solutions Architect my main focus is to shape the IT&C landscape of my end customers in the most future-proof and cost-conscious way. 
-I drive roadmap sessions, lead technical discussions, create solution designs, draw HLDs and LLDs, run proof of value sessions, and ultimately design DevOps rollout strategies for full blown DTAP Solution-as-Code.
+As an Azure-minded Solutions Architect my focus is to shape the IT&C landscape of my end customers in the most future-proof, data driven and cost-conscious way. 
+I run roadmap sessions, lead technical discussions, create solution designs, draw HLDs and LLDs, run proof of value sessions, and ultimately design rollout strategies for full blown DTAP Solution-as-Code.
 I love solving business challenges with innovative technologies, and I get a lot of energy from technically dense discussions that lead to more secure and resilient workloads. 
 Part of my work is also dedicated to growing internal and external teams to be self-sufficient, inducing a growth mindset and shaping future consultants.
 
@@ -44,7 +44,7 @@ The role of Azure CSA with Microsoft comes with a lot of duties, of which I can 
 - Help Microsoft Partners to create long-term cloud adoption strategies.
 - Actively shape various Azure services by engaging with the Azure Product Groups and providing market-driven feedback.
 
-In my daily work I touch base with all the Azure Solution Areas: Infrastructure, Digital and App Innovation, Data and AI, Identity and Security.
+In my daily work I touch base with all the Azure Solution Areas: Infrastructure, Digital and App Innovation, Data and AI, IoT, Identity and Security.
 
 It all starts with a surreal scenario or very often with an exotic customer request and ends up with a solution that is deployed and managed on Azure. On a daily base I work with a highly skilled technical community of our partners (CTOs, Enterprise, and Lead Architects) and I collaborate with them to build solutions that are scalable, secure, and cost effective.
 
@@ -99,6 +99,8 @@ Customer and partner engagements included:
 - Trainer of PowerShell Core & Advanced and SharePoint for Admins
 - Company-wide Azure Subject Matter Expert.
 
+During my time at BearingPoint I worked mainly for Schindler (CH), with a strong presence in the manufacturing industry.
+
 ### September 2013 – October 2015 | *Support Escalation Engineer (Public and Private Cloud Services) at Microsoft*
 As I was so passionate about Microsoft technologies, I joined the great family of Microsoft where I was initially busy with providing deep technical support for escalations all around Europe.
 My daily activities consisted in engaging & collaborating with other teams to obtain resolution to critical and complex issues, in being responsive to Microsoft’s customers\` and partners\` needs, which sometimes required support outside of the normal business hours. I created & maintained technical content including Knowledge Base articles, blog posts, whitepapers, and training documents.
@@ -126,6 +128,7 @@ Domain: Electrical Engineering (Automation)
 ## Training Courses and Self-Study
 
 ### Microsoft
+* DP-600 - Fabric Analytics Engineer Associate (in progress)
 * AZ-305 - Designing Microsoft Azure Infrastructure Solutions
 * AZ-104 - Azure Administrator Associate
 * AZ-140 - Configuring and Operating Microsoft Azure Virtual Desktop
@@ -142,9 +145,11 @@ Domain: Electrical Engineering (Automation)
 * Project Manager (CODECS Romania & Open University)
 
 ### Other Trainings
+* Data Management at Scale
+* Pragmatic Microservices with C# and Azure
 * Microsoft – Senior Technical Leadership Program
-* Advanced Entrepreneurship.
-* ITIL Foundation V3 – Level 1
+* Advanced Entrepreneurship
+* ITIL Foundation V3
 
 ## Languages
 | Language | Speaking | Writing | Reading |
@@ -156,12 +161,13 @@ Domain: Electrical Engineering (Automation)
 
 ## Personal Skills
 I don’t miss a chance to coach my customers and colleagues and help them find answers to various issues all by themselves.
-I have a great experience managing mid-sized teams as well as external customer teams. 
-Along the time I learned the art of developing partnerships with other teams or companies.
+**I have a great experience managing mid-sized teams as well as external customer teams.**
+**Along the time I learned the art of developing partnerships with other teams or companies.**
 
 ## Personal Interests
 I am passionate about green and power efficient technologies in all its shapes and forms. 
-I enjoy building small home automations up to photovoltaic deployments and electrical engineering works.
-What keeps me awake at midnight? Challenges. The hardest to achieve, tailor-made for the future and built upon innovative solutions. I am always looking forward to the next challenge to be done properly.
+I enjoy building small home IoT automations up to photovoltaic deployments and electrical engineering works.
+What keeps me awake at midnight? Challenges. The hardest to achieve, tailor-made for the future and built upon innovative solutions. 
+**I am always looking forward to the next challenge to be properly done.**
 
 This CV can be downloaded [here](/docs/cv-bogdan-grozoiu.pdf)
