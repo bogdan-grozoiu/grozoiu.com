@@ -5,9 +5,8 @@ title: "Contact me"
 
 Let's get in contact:
 * **Web**: https://grozoiu.com
-* **E-mail**: info@grozoiu.com
+* **E-mail**: bogdan@grozoiu.com
 * **Mobile**: +31 625243579
-
 
 Company details:
 * **Company Name**: Bogdan Grozoiu Consultancy Services
