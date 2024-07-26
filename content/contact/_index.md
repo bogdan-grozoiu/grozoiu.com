@@ -8,6 +8,8 @@ Let's get in contact:
 * **E-mail**: bogdan@grozoiu.com
 * **Mobile**: +31 625243579
 
+[Chat with me on Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=bogdan@grozoiu.com)
+
 Company details:
 * **Company Name**: Bogdan Grozoiu Consultancy Services
 * **Company Type**: Freelancer / Eenmanszaak
