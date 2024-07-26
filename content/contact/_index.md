@@ -8,7 +8,7 @@ Let's get in contact:
 * **E-mail**: bogdan@grozoiu.com
 * **Mobile**: +31 625243579
 
-[Chat with me on Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=bogdan@grozoiu.com)
+[Chat with me on Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?tenantId=b3381c97-d06f-47f3-80be-b9397a6b1d13&users=bogdan@grozoiu.com)
 
 Company details:
 * **Company Name**: Bogdan Grozoiu Consultancy Services
