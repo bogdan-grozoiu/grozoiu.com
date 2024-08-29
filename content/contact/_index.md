@@ -4,14 +4,14 @@ title: "Contact me"
 ---
 
 Let's get in contact:
-* **Web**: https://grozoiu.com
+* **Web**: https://cloud-positive.com
 * **E-mail**: bogdan@grozoiu.com
 * **Mobile**: +31 625243579
 
 [Chat with me on Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?tenantId=b3381c97-d06f-47f3-80be-b9397a6b1d13&users=bogdan@grozoiu.com)
 
 Company details:
-* **Company Name**: Bogdan Grozoiu Consultancy Services
+* **Company Name**: Cloud Positive / Bogdan Grozoiu Consultancy Services
 * **Company Type**: Freelancer / Eenmanszaak
 * **KvK nummer / Company Registration Number**: 91783704
 * **BtW nummer / VAT Number**: NL004917360B83
