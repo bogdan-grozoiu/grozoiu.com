@@ -19,7 +19,8 @@
         "gcse": false,
         "lastMod": false,
         "rss": false,
-        "pagination": 10
+        "pagination": 10,
+        "relativeURLs": true
     },
     "sitemap": {
         "changefreq": "monthly",
