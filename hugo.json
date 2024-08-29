@@ -1,7 +1,7 @@
 {
     "baseURL": "https://grozoiu.com",
     "languageCode": "en-us",
-    "title": "Bogdan Grozoiu Consultancy Services",
+    "title": "Cloud Positive",
     "theme": "lightbi-hugo",
     "params": {
         "mainSections": [
@@ -28,7 +28,7 @@
     },
     "Author": {
         "name": "Bogdan Grozoiu",
-        "website": "https://grozoiu.com",
+        "website": "https://cloud-positive.com",
         "about": "/about/",
         "email": "bogdan@grozoiu.com",
         "twitter": "bogdangr",
