@@ -20,7 +20,13 @@
         "lastMod": false,
         "rss": false,
         "pagination": 10,
-        "relativeURLs": true
+        "relativeURLs": true,
+        "author":{
+            "name": "Bogdan Grozoiu",
+            "website": "https://cloud-positive.com",
+            "about": "/about/",
+            "email": "bogdan@grozoiu.com"
+        }
     },
     "sitemap": {
         "changefreq": "monthly",

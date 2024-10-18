@@ -1,6 +1,6 @@
 ---
 layout : "about"
-title: "BGCS DevSecOps Services"
+title: "Cloud Positive - DevSecOps"
 ---
 
 # DevSecOps (via Azure DevOps or GitHub)
@@ -58,11 +58,12 @@ Get ready to increase your productivity using modern tooling and practices, rega
 ## Tagging for Innersourcing
 Do you have time for a coffee until your pipeline fails? Is everything in one repo? Are you creating useless artifacts? Does it feel too complicated and unreadable? Do you live with the fear that one of your colleagues can make a change that will break every deployment?
 
-If you answered "Yes" to at least one of the questions above, you need to change your DevSecOps strategy. Let me help you become ultra efficient at automating your world and introduce in your organization Tag based references for performance efficiency and parallelism.
+If you answered "Yes" to at least one of the questions above, you need to change your DevSecOps strategy. Let me help you become ultra efficient at automating your world and introduce in your organization Tag based references for performance efficiency and safe parallelism.
 
 ## Designing for Automatic testing
 "We can only test in Production". Then why do you pay for Acceptance? Why isn't the code scanned and checked for dependencies? Where are the Pester tests? Do you have push protection, auto-triage and alerting mechanisms in place? The time is now - although others are light years ahead of you, many more are in total darkness.
 
 Shed light and create organic structures and patterns, the technology is there already - all we have to do is set it in place, mindfully, together.
 
-Enough reading, hit the [contact me](/contact/) link right now and let's get moving.
+I am not re-inventing the wheel, but I make sure all its parts are tightly coupled and you have a smooth and positive cloud experience.  
+Enough reading, hit this [contact me](/contact/) link right now and let's get moving.
