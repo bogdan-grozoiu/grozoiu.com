@@ -4,9 +4,9 @@ title: "Contact me"
 ---
 
 Let's get in contact:
-* **Web**: https://cloud-positive.com
-* **E-mail**: bogdan@grozoiu.com
-* **Mobile**: +31 625243579
+* **Web**: https://cloudpositive.eu
+* **E-mail**: bogdan.grozoiu [@] cloudpositive.eu
+* **Mobile**: +31 35 369 91 49
 
 [Chat with me on Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?tenantId=b3381c97-d06f-47f3-80be-b9397a6b1d13&users=bogdan@grozoiu.com)
 
